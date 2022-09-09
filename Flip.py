@@ -1,3 +1,6 @@
+#simple flipbird game using pygame
+#code by Imalsha
+
 import pygame, random
 from pygame.locals import *
 
